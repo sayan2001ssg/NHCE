@@ -8,7 +8,7 @@ body{
 	background-attachment: fixed;
 }
 .head{
-	text-shadow: 2px 2px 7px grey;
+	text-shadow: 2px 2px 7px black;
 }
 table, th, td{
 	border: 1px solid black;
