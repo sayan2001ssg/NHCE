@@ -1,0 +1,10 @@
+.head{
+	text-shadow: 2px 2px 7px grey;
+}
+table, th, td{
+	border: 1px solid black;
+  border-collapse: collapse;
+}
+.page{
+	padding-top: 10px;
+}
