@@ -1,9 +1,21 @@
+body{
+	background-image: url(nhce.jpg);
+	height: 780px;
+	/*background-attachment: fixed;*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
 .head{
 	text-shadow: 2px 2px 7px grey;
 }
 table, th, td{
 	border: 1px solid black;
   border-collapse: collapse;
+}
+table{
+	opacity: 0.9;
 }
 .page{
 	padding-top: 10px;
